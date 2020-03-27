@@ -34,7 +34,8 @@ form input {
 
 form textarea {
   width: 100%;
-  height: 140px;
+  resize: vertical;
+  min-height: 140px;
   color: #333;
   border: 1px solid #dcdce6;
   border-radius: 8px;
